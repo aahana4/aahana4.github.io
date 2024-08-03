@@ -3480,7 +3480,8 @@ input, select, textarea {
 		#header nav {
 			height: inherit;
 			line-height: inherit;
-			position: absolute;
+			position: center;
+			text-align: center;
 			right: 0;
 			top: 0;
 		}
